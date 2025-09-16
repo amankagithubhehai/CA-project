@@ -1,8 +1,8 @@
-# MFCS Digital Circuits
+# CA Digital Circuits
 
 ## 📌 Overview
 This repository contains digital circuit implementations built using **Logisim**.  
-It is part of the **Mathematical Foundations of Computer Science (MFCS)** course assignments and showcases practical circuit designs.
+It is part of the CA course assignments and showcases practical circuit designs.
 
 ## 🚀 Features
 - `.circ` files that can be directly opened in **Logisim**
